@@ -35,6 +35,8 @@ Suppose you want to add two numbers, 5 and 3. Follow these steps:
 
 The result will be displayed: `8`.
 
+## Thanks [simplilearn](https://www.youtube.com/@SimplilearnOfficial) for the logic and interface structure
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, please submit a pull request. Make sure to follow the existing coding style and write appropriate tests.

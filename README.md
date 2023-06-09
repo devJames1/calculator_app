@@ -2,6 +2,8 @@
 
 ![Basic Calculator App](./calculator_app.png)
 
+### [DEMO](https://devjames1.github.io/calculator_app/)
+
 This is a simple calculator app implemented in JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
